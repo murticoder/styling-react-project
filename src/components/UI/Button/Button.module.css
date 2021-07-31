@@ -12,6 +12,12 @@
   outline: none;
 }
 
+@media (min-width: 768){
+  .button{
+    width : auto;
+  }  
+}
+
 .button:hover,
 .button:active {
   background: #ac0e77;
